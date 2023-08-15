@@ -1,2 +1,2 @@
 # demo-devops
-quelques descriptions du projet git du cours de devops
+quelques descriptions du projet git du cours de devops !
