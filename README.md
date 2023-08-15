@@ -5,3 +5,4 @@ quelques descriptions du projet git du cours de devops !
 Entrain de faire le projet de devops
 
 ### Preparation pour le pull
+On procede au pull request
